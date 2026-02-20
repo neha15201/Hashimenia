@@ -37,7 +37,7 @@ How to Run the Project
 
 1. Clone the repository
 
-git clone https://github.com/your-username/HashtagGeneratorApp.git
+git clone https://github.com/neha15201/Hashimenia.git
 
 2. Open the project in Android Studio
 
